@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otopark", "otopark\otopark.csproj", "{1EE70FCD-C067-449B-99E9-6D052D381BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE70FCD-C067-449B-99E9-6D052D381BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE70FCD-C067-449B-99E9-6D052D381BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE70FCD-C067-449B-99E9-6D052D381BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE70FCD-C067-449B-99E9-6D052D381BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

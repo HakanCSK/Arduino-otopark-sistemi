@@ -1,0 +1,9 @@
+c:\users\hakan\documents\visual studio 2015\Projects\otopark\otopark\bin\Debug\otopark.exe.config
+c:\users\hakan\documents\visual studio 2015\Projects\otopark\otopark\bin\Debug\otopark.exe
+c:\users\hakan\documents\visual studio 2015\Projects\otopark\otopark\bin\Debug\otopark.pdb
+c:\users\hakan\documents\visual studio 2015\Projects\otopark\otopark\obj\Debug\otopark.csprojResolveAssemblyReference.cache
+c:\users\hakan\documents\visual studio 2015\Projects\otopark\otopark\obj\Debug\otopark.Form1.resources
+c:\users\hakan\documents\visual studio 2015\Projects\otopark\otopark\obj\Debug\otopark.Properties.Resources.resources
+c:\users\hakan\documents\visual studio 2015\Projects\otopark\otopark\obj\Debug\otopark.csproj.GenerateResource.Cache
+c:\users\hakan\documents\visual studio 2015\Projects\otopark\otopark\obj\Debug\otopark.exe
+c:\users\hakan\documents\visual studio 2015\Projects\otopark\otopark\obj\Debug\otopark.pdb
